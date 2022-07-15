@@ -21,3 +21,5 @@ reverse the string because popping takes place at the last character in the file
 open output file in writing mode<br> 
 overwrite the output file with the reversed string.  
 
+- [Source code](backspaceSimulation.cpp) 
+
