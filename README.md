@@ -1,6 +1,4 @@
 # Cplusplusknowledge
- 
-(portfolio project)
 
 A repo containing my extracurricular experience with C++.
 - [backspaceSimulation](backspaceSimulation/Description.md)
